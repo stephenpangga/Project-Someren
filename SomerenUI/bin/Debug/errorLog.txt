@@ -1,0 +1,75 @@
+3/15/2019 12:34:34 PM, error message:  Someren couldn't connect to the database
+3/15/2019 12:39:50 PM, error message:  Someren couldn't connect to the database
+15/03/2019 23:37:29, error message:  Someren couldn't connect to the database
+16/03/2019 23:58:01, error message:  Someren couldn't connect to the database
+16/03/2019 23:58:16, error message:  Someren couldn't connect to the database
+16/03/2019 23:58:41, error message:  Someren couldn't connect to the database
+16/03/2019 23:59:55, error message:  Someren couldn't connect to the database
+17/03/2019 00:00:19, error message:  Someren couldn't connect to the database
+17/03/2019 00:00:34, error message:  Someren couldn't connect to the database
+17/03/2019 00:00:53, error message:  Someren couldn't connect to the database
+17/03/2019 01:05:34, error message:  Someren couldn't connect to the database
+17/03/2019 01:05:50, error message:  Someren couldn't connect to the database
+17/03/2019 01:06:34, error message:  Someren couldn't connect to the database
+3/17/2019 4:46:22 PM, error message:  Someren couldn't connect to the database
+3/18/2019 12:02:48 PM, error message:  Someren couldn't connect to the database
+3/18/2019 12:06:42 PM, error message:  Someren couldn't connect to the database
+3/18/2019 12:06:45 PM, error message:  Someren couldn't connect to the database
+3/18/2019 12:29:05 PM, error message:  Someren couldn't connect to the database
+3/18/2019 3:11:53 PM, error message:  Someren couldn't connect to the database
+3/19/2019 10:59:00 AM, error message:  Someren couldn't connect to the database
+19/03/2019 23:15:22, error message:  Someren couldn't connect to the database
+19/03/2019 23:28:29, error message:  Someren couldn't connect to the database
+20/03/2019 01:12:18, error message:  Someren couldn't connect to the database
+20/03/2019 15:50:20, error message:  No connection to the database.
+20/03/2019 18:35:14, error message:  Date not working.
+20/03/2019 18:36:39, error message:  Date not working.
+20/03/2019 18:36:59, error message:  Date not working.
+20/03/2019 18:40:51, error message:  Date not working.
+20/03/2019 18:41:20, error message:  Date not working.
+20/03/2019 18:42:33, error message:  Date not working.
+20/03/2019 20:05:36, error message:  Date not working/Data can't be reached 
+20/03/2019 23:09:36, error message:  Someren couldn't connect to the database
+20/03/2019 23:12:23, error message:  Someren couldn't connect to the database
+20/03/2019 23:17:57, error message:  Someren couldn't connect to the database
+21/03/2019 15:44:49, error message:  No connection to the database.
+21/03/2019 17:00:47, error message:  No connection to the database.
+21/03/2019 17:00:50, error message:  Someren couldn't connect to the database
+21/03/2019 17:10:24, error message:  Someren couldn't connect to the database
+21/03/2019 17:11:18, error message:  Someren couldn't connect to the database
+3/21/2019 11:43:51 PM, error message:  Someren couldn't connect to the database
+3/22/2019 2:47:38 PM, error message:  Date not working/Data can't be reached 
+22/03/2019 17:53:28, error message:  Date not working/Data can't be reached 
+23/03/2019 01:12:27, error message:  Date not working/Data can't be reached 
+3/25/2019 12:08:36 PM, error message:  Someren couldn't connect to the database
+3/26/2019 9:35:12 AM, error message:  Someren could not connect to the database
+3/26/2019 9:35:15 AM, error message:  Someren couldn't connect to the database
+3/26/2019 9:35:17 AM, error message:  Someren couldn't connect to the database
+26/03/2019 20:11:45, error message:  Someren couldn't connect to the database
+26/03/2019 20:11:49, error message:  Someren couldn't connect to the database
+26/03/2019 20:12:42, error message:  Someren couldn't connect to the database
+26/03/2019 20:12:52, error message:  Someren couldn't connect to the database
+26/03/2019 20:13:22, error message:  Someren couldn't connect to the database
+26/03/2019 20:17:13, error message:  Someren couldn't connect to the database
+26/03/2019 20:17:50, error message:  Someren couldn't connect to the database
+26/03/2019 20:22:20, error message:  Someren couldn't connect to the database
+26/03/2019 20:25:27, error message:  Someren couldn't connect to the database
+26/03/2019 20:26:44, error message:  Someren couldn't connect to the database
+26/03/2019 20:29:11, error message:  Someren couldn't connect to the database
+26/03/2019 20:39:39, error message:  Someren couldn't connect to the database
+26/03/2019 20:42:35, error message:  Someren couldn't connect to the database
+26/03/2019 20:43:14, error message:  Someren couldn't connect to the database
+26/03/2019 20:47:13, error message:  Someren couldn't connect to the database
+26/03/2019 20:50:23, error message:  Someren couldn't connect to the database
+26/03/2019 20:52:03, error message:  Someren couldn't connect to the database
+26/03/2019 20:52:49, error message:  Someren couldn't connect to the database
+26/03/2019 20:53:11, error message:  Someren couldn't connect to the database
+26/03/2019 20:54:53, error message:  Someren couldn't connect to the database
+26/03/2019 20:55:15, error message:  Someren couldn't connect to the database
+26/03/2019 20:55:55, error message:  Someren couldn't connect to the database
+26/03/2019 20:57:11, error message:  Someren couldn't connect to the database
+26/03/2019 20:58:03, error message:  Someren couldn't connect to the database
+26/03/2019 20:58:41, error message:  Someren couldn't connect to the database
+26/03/2019 21:01:05, error message:  Someren couldn't connect to the database
+26/03/2019 23:19:43, error message:  Someren couldn't connect to the database
+3/29/2019 1:05:26 PM, error message:  Someren couldn't connect to the database
